@@ -1,0 +1,15 @@
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion08\Practica08\Practica08\bin\Debug\net10.0\Practica08.exe
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion08\Practica08\Practica08\bin\Debug\net10.0\Practica08.deps.json
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion08\Practica08\Practica08\bin\Debug\net10.0\Practica08.runtimeconfig.json
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion08\Practica08\Practica08\bin\Debug\net10.0\Practica08.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion08\Practica08\Practica08\bin\Debug\net10.0\Practica08.pdb
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion08\Practica08\Practica08\obj\Debug\net10.0\Practica08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion08\Practica08\Practica08\obj\Debug\net10.0\Practica08.AssemblyInfoInputs.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion08\Practica08\Practica08\obj\Debug\net10.0\Practica08.AssemblyInfo.cs
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion08\Practica08\Practica08\obj\Debug\net10.0\Practica08.csproj.CoreCompileInputs.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion08\Practica08\Practica08\obj\Debug\net10.0\Practica08.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion08\Practica08\Practica08\obj\Debug\net10.0\refint\Practica08.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion08\Practica08\Practica08\obj\Debug\net10.0\Practica08.pdb
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion08\Practica08\Practica08\obj\Debug\net10.0\Practica08.genruntimeconfig.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion08\Practica08\Practica08\obj\Debug\net10.0\ref\Practica08.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion08\Practica08\Practica08\obj\Debug\net10.0\Practica08.csproj.Up2Date
